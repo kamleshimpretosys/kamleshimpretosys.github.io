@@ -1,0 +1,2 @@
+(window["webpackJsonppayment-gateway-middleware"]=window["webpackJsonppayment-gateway-middleware"]||[]).push([[16],{351:function(e,n,t){"use strict";t.r(n),t.d(n,"BlankPage",(function(){return p}));var a=t(11),r=t(12),c=t(15),i=t(13),u=t(14),o=t(0),d=t.n(o),p=function(e){function n(){return Object(a.a)(this,n),Object(c.a)(this,Object(i.a)(n).apply(this,arguments))}return Object(u.a)(n,e),Object(r.a)(n,[{key:"render",value:function(){return d.a.createElement("div",null)}}]),n}(o.Component);n.default=p}}]);
+//# sourceMappingURL=16.227d8bce.chunk.js.map
